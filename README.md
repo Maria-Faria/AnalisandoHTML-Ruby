@@ -1,8 +1,8 @@
-## Analisando HTML com Ruby
+## 💻 Analisando HTML com Ruby
 
 `finalizado`
 
-### Objetivo geral
+### 🖋️ Objetivo geral
 
 - Ler um arquivo HTML do site "example.com", por meio da gem nokogiri
 - Retornar na tela o conteúdo que se encontra na tag _p_
